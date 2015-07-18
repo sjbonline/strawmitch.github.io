@@ -5,3 +5,5 @@ function expandBio() {
   hiddenText.style.display ="inline";
 }
 moreBio.addEventListener("click", expandBio, false);
+
+expandBio();
